@@ -4,4 +4,4 @@ Neste repositório estão disponibilizados os seguintes PDFs, resultados dos tra
 
 2 - Tese de doutorado, defendido em 17 de novembro de 2022, intitulado "ReSNN-DCT: Metodologia para Redução de Rede Neural Spiking utilizando Transformada de Cossenos Discreta e Emparelhamento Elegante".
 
-3 - Artigo como co-autor, referente à orientação de projeto de aluno de graduação Mattheus Smith Costa Fernandes, submetido no SIBGRAPI 2024 (37th Conference on Graphics Patterns and Images).
+3 - Artigo como co-autor, referente à orientação de projeto de aluno de graduação Mattheus Smith Costa Fernandes, a ser submetido no SIBGRAPI 2024 (37th Conference on Graphics Patterns and Images).
